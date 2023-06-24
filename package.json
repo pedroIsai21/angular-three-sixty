@@ -32,7 +32,7 @@
     "license": "MIT",
     "dependencies": {
         "@mediaman/three-sixty": "0.0.9",
-        "tslib": "^1.7.1"
+        "tslib": "^1.14.1"
     },
     "peerDependencies": {
         "@angular/common": ">= 5.0.0",
